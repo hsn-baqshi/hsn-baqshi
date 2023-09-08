@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hsn-baqshi. I am a mechanical engineer, artist and planning to be a data scientist
-- 👀 I’m interested in Data Science, video games, cars and other sciences in general
+- 👋 Hi, I’m @hsn-baqshi. I am an engineer, artist and developer
+- 👀 I’m interested in Game Development, Data Science, video games, cars, and sciences in general
 - 🌱 I’m currently learning Data Science and Python
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on game development.
 - 📫 You can reach me @ HassanAlbaqshiNT@gmail.com
 
 <!---
