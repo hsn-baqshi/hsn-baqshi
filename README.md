@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development, Data Science, video games, cars, and sciences in general
 - 🌱 I’m currently learning Data Science and Python
 - 💞️ I’m looking to collaborate on game development.
-- 📫 You can reach me @ HassanAlbaqshiNT@gmail.com
+- 📫 You can reach me @ albaqshiha@gmail.com
 
 <!---
 hsn-baqshi/hsn-baqshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
