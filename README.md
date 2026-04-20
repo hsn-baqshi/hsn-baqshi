@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hsn-baqshi. I am an engineer, artist and developer
 - 👀 I’m interested in Game Development, Data Science, video games, cars, and sciences in general
-- 🌱 I’m currently working on a RTS game 
-- 💞️ I’m looking to collaborate on game development and AI
+- 🌱 I’m currently working on an indie game 
 - 📫 You can reach me @ albaqshiha@gmail.com
 
 <!---
